@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Cat Clarke / Assistant Professor of Plant Biology"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Caitlin Clarke, PhD"
+description              : &description "Courses taught, research, and scholarship"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://dendrocat.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "dendro-cat/dendrocat.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Cat Clarke"
+  pronouns         : "she/her"  
+  bio              : "Plant ecology with a focus on plant-fungal interactions"
+  location         : "Alfred, NY"
+  employer         : "Alfred University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "clarkec@alfred.edu" 
 
   # Academic websites
   academia         : # URL
